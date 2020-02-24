@@ -1,4 +1,3 @@
-// @author:hrask
 (function () {
 
   'use strict';
